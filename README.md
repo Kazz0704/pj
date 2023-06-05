@@ -1,4 +1,4 @@
-# pj
+# Online Ordering System
 The Online Ordering System is a comprehensive and user-friendly solution that enables customers to conveniently place their food orders online. This system simplifies the ordering process for both customers and restaurant owners, providing a seamless and efficient experience.
 
 With the Online Ordering System, customers can easily create an account and log in to access a wide range of menu options. The system showcases the menu items along with their prices and descriptions, allowing customers to browse through the available options at their leisure. By providing a clear and organized menu display, customers can make informed decisions and select the items that best suit their preferences.
